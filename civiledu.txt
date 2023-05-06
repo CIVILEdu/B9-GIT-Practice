@@ -1,1 +1,5 @@
 GIT and GITHUB Classes_Day 2
+
+DevOps is a culture, and is not a technology
+
+GIT is developed by Linus Torvalds
